@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC
+    background: #f9faeafd
 }
 
 #banner{width: 100%;}
@@ -9,5 +9,5 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: green;
 }
